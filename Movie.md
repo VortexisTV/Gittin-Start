@@ -14,6 +14,5 @@
 
 ```
 System.out.println("Morbius");
-<br>
 System.out.println("2022");
 ```
